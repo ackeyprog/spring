@@ -1,0 +1,11 @@
+package jp.kei.spring.sample1;
+
+public class App {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyBean bean=new MyBean("This is Bean sample");
+		System.out.println(bean);
+	}
+
+}
